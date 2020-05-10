@@ -11,7 +11,7 @@ This is a space Invader Game, If u Want to be a Space Warrior, and Want to Kick 
 
 ## Attention.
 
-- If incase u don't have pygame module installed in your local Machine then Please install it first.
+- If incase u don't have ``pygame`` module installed in your local Machine then Please install it first.
 - Type `pip install pygame` in your terminal and then follow the Above Instruction to Play the game.
 
 # Contributors
