@@ -13,7 +13,7 @@ This is a space Invader Game, If u Want to be a Space Warrior, and Want to Kick 
 
 - If incase u don't have ``pygame`` module installed in your local Machine then Please install it first.
 - Type `pip install pygame` in your terminal and then follow the Above Instruction to Play the game.
-
+- Or you can use the requirements.txt file to download the python libraries.
 # Contributors
 
 - <a href="https://github.com/skumardas267">Sourabh Kumar</a>
